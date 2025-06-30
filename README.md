@@ -68,3 +68,4 @@ Mailing list:
  * [CHIPSEC discussion list on kernel.org (oe-chipsec)](https://subspace.kernel.org/lists.linux.dev.html?highlight=oe-chipsec)
 
 For AMD related questions or suggestions please contact Gabriel Kerneis at: Gabriel.Kerneis@ssi.gouv.fr
+
